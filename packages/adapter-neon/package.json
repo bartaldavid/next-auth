@@ -1,13 +1,13 @@
 {
-  "name": "@auth/pg-adapter",
-  "version": "0.2.1",
-  "description": "Postgres adapter for next-auth.",
+  "name": "@auth/neon-adapter",
+  "version": "0.0.1",
+  "description": "Neon database adapter for next-auth.",
   "homepage": "https://authjs.dev",
   "repository": "https://github.com/nextauthjs/next-auth",
   "bugs": {
     "url": "https://github.com/nextauthjs/next-auth/issues"
   },
-  "author": "Jake Coppinger",
+  "author": "David Bartal",
   "contributors": [
     "Thang Huu Vu <hi@thvu.dev>"
   ],
